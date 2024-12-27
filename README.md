@@ -1,6 +1,6 @@
 Hi there, I'm Shubham Meshram 👋
 
-I'm a passionate and versatile Java Developer with a solid academic foundation. With a Bachelor's in Engineering (BE), a aster of Business Administration (MBA), and a specialized certification in Advanced Computing from CDAC, I bring a unique blend of technical and business skills to the table.
+I'm a passionate and versatile Java Developer with a solid academic foundation. With a Bachelor's in Engineering (BE), a Master of Business Administration (MBA), and a specialized certification in Advanced Computing from CDAC, I bring a unique blend of technical and business skills to the table.
 
 🛠️ Tech Stack:
 - **Languages**: Java, Python, SQL, JavaScript
