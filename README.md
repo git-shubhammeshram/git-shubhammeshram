@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shubham Meshram</h1>
 <h3 align="center">I'm a passionate and versatile Java Developer with a solid academic foundation. With a Bachelor's in Engineering (BE), a Master of Business Administration (MBA), and a specialized certification in Advanced Computing from CDAC, I bring a unique blend of technical and business skills to the table.</h3>
 
+<img align="left" alt="coding" width="40" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=git-shubhammeshram&label=Profile%20views&color=0e75b6&style=flat" alt="git-shubhammeshram" /> </p>
 
 <p align="left"> <a href="https://twitter.com/_shubhammeshram" target="blank"><img src="https://img.shields.io/twitter/follow/_shubhammeshram?logo=twitter&style=for-the-badge" alt="_shubhammeshram" /></a> </p>
