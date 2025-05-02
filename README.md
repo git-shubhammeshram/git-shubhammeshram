@@ -1,4 +1,4 @@
-![Header](/banner.png)
+![Header](/Banner.png)
 <h1 align="center">Hi 👋, I'm Shubham Meshram</h1>
 <h3 align="center">I'm a passionate and versatile Java Developer with a solid academic foundation. With a Bachelor's in Engineering (BE), a Master of Business Administration (MBA), and a specialized certification in Advanced Computing from CDAC, I bring a unique blend of technical and business skills to the table.</h3>
 
