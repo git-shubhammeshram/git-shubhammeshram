@@ -36,8 +36,8 @@
 <a href="https://linkedin.com/in/shubhamsmeshram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhamsmeshram" height="30" width="40" /></a>
 <a href="https://instagram.com/_shubhammeshram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shubhammeshram" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/shubham meshram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shubham meshram" height="30" width="40" /></a>
-<a href="https://topmate.io/shubhammeshram" target="blank"><img align="center" src="https://raw.githubusercontent.com/git-shubhammeshram/git-shubhammeshram/main/Tmate.png" alt="_shubhammeshram" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/_shubhammeshram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="_shubhammeshram" height="30" width="40" /></a>
+<a href="https://topmate.io/shubhammeshram" target="blank"><img align="center" src="https://raw.githubusercontent.com/git-shubhammeshram/git-shubhammeshram/main/Tmate.png" alt="_shubhammeshram" height="30" width="30" /></a>
+<a href="https://api.whatsapp.com/send/?phone=7719840376" target="blank"><img align="center" src="https://raw.githubusercontent.com/git-shubhammeshram/git-shubhammeshram/main/WhatsApp.png" alt="_shubhammeshram" height="50" width="50" /></a>
 <a href="https://leetcode.com/u/shubhummeshram99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_shubhammeshram" height="30" width="40" /></a>
 
 </p>
