@@ -36,9 +36,9 @@
 <a href="https://linkedin.com/in/shubhamsmeshram" target="blank"><img align="center" src="https://raw.githubusercontent.com/git-shubhammeshram/git-shubhammeshram/main/assets/Linkedin.png" alt="shubhamsmeshram" height="50" width="50" /></a>
 <a href="https://instagram.com/_shubhammeshram" target="blank"><img align="center" src="https://raw.githubusercontent.com/git-shubhammeshram/git-shubhammeshram/main/assets/Instagram.png" alt="_shubhammeshram" height="50" width="50" /></a>
 <a href="https://www.youtube.com/c/shubham meshram" target="blank"><img align="center" src="https://raw.githubusercontent.com/git-shubhammeshram/git-shubhammeshram/main/assets/Youtube.png" alt="shubham meshram" height="50" width="50" /></a>
-<a href="https://topmate.io/shubhammeshram" target="blank"><img align="center" src="https://raw.githubusercontent.com/git-shubhammeshram/git-shubhammeshram/main/assets/Topmate.png" alt="_shubhammeshram" height="30" width="30" /></a>
-<a href="https://api.whatsapp.com/send/?phone=7719840376" target="blank"><img align="center" src="https://raw.githubusercontent.com/git-shubhammeshram/git-shubhammeshram/main/assets/WhatsApp.png" alt="_shubhammeshram" height="50" width="50" /></a>
-<a href="https://leetcode.com/u/shubhummeshram99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_shubhammeshram" height="30" width="40" /></a>
+<a href="https://topmate.io/shubhammeshram" target="blank"><img align="center" src="https://raw.githubusercontent.com/git-shubhammeshram/git-shubhammeshram/main/assets/Topmate.png" alt="_shubhammeshram" height="50" width="50" /></a>
+<a href="https://api.whatsapp.com/send/?phone=7719840376" target="blank"><img align="center" src="https://raw.githubusercontent.com/git-shubhammeshram/git-shubhammeshram/main/assets/WhatsApp.png" alt="_shubhammeshram" height="70" width="70" /></a>
+<a href="https://leetcode.com/u/shubhummeshram99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_shubhammeshram" height="50" width="50" /></a>
 
 </p>
 
